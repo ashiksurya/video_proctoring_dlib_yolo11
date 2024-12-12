@@ -1,0 +1,252 @@
+activity_time: 2024-11-28 11:20:23.834356
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.7976505756378174), ('person', 0.3415956497192383)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:29.751177
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8086481094360352), ('person', 0.37799376249313354)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:30.900332
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.7946761846542358), ('person', 0.27726733684539795)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:32.289644
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8405254483222961)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:33.433258
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.7948427796363831)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:34.435770
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8351811766624451)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:35.423735
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.6750383377075195)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:36.362259
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.850334882736206)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:37.349427
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.7506760358810425)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:38.527476
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8623092174530029)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:39.709768
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Close
+object_detected: [('person', 0.7791367173194885), ('traffic light', 0.3557061553001404)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:40.828235
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.5579572916030884)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:41.963624
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.692467987537384)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:43.045342
+face_status: Face detecting properly.
+face_count: 1
+blink_status: Blink count: 1
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8739035725593567), ('tv', 0.43514740467071533)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:44.024516
+face_status: Face detecting properly.
+face_count: 1
+blink_status: Blink count: 2
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8835341334342957), ('tv', 0.5886452198028564), ('laptop', 0.25575530529022217)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:45.095321
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.6133511066436768), ('tv', 0.4105727970600128)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:46.243105
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.6620003581047058), ('tv', 0.501162052154541)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:47.312938
+face_status: Face detecting properly.
+face_count: 1
+blink_status: Blink count: 3
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.7237560153007507), ('person', 0.7137965559959412), ('tv', 0.6600385308265686)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:48.320230
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.7885861992835999), ('cell phone', 0.4195866584777832), ('tv', 0.3845125734806061)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:49.457366
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.9413217902183533), ('person', 0.6172707080841064), ('tv', 0.4474877119064331)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:50.693943
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.9484109878540039), ('person', 0.6612033843994141), ('tv', 0.33344772458076477)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:51.913894
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: left
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.947684109210968), ('person', 0.5016230940818787), ('tv', 0.3861981928348541)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:53.062737
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.9491444826126099), ('person', 0.6688570380210876), ('tv', 0.5389756560325623)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:54.250414
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('cell phone', 0.946147620677948), ('person', 0.6506900787353516), ('tv', 0.4437422454357147)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:55.428032
+face_status: Face detecting properly.
+face_count: 1
+blink_status: Blink count: 4
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8052207827568054)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:56.610510
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8790153861045837)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:57.704444
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8888900876045227)]
+head_pose_status: Head Straight
+
+activity_time: 2024-11-28 11:20:58.676449
+face_status: Face detecting properly.
+face_count: 1
+blink_status: No Blink
+eye_status: center
+mouth_status: Mouth Open
+object_detected: [('person', 0.8117234110832214), ('person', 0.25164127349853516)]
+head_pose_status: Head Straight
+
